@@ -19,4 +19,4 @@ The world chart displays the number of cases in each total and a bar graph displ
 
 [![Screen-Shot-2020-12-14-at-10-39-22-PM.png](https://i.postimg.cc/CKtLkVbG/Screen-Shot-2020-12-14-at-10-39-22-PM.png)](https://postimg.cc/GBFCnV7t)
 
-[![Screen-Shot-2020-12-14-at-10-39-22-PM.png](https://i.postimg.cc/CKtLkVbG/Screen-Shot-2020-12-14-at-10-39-22-PM.png)](https://postimg.cc/GBFCnV7t)
+[![Screen-Shot-2020-12-14-at-10-40-34-PM.png](https://i.postimg.cc/G3PTwHk6/Screen-Shot-2020-12-14-at-10-40-34-PM.png)](https://postimg.cc/kD4gWMYy)

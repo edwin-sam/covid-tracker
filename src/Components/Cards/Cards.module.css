@@ -11,11 +11,11 @@
 }
 
 .recovered {
-    border-bottom: 10px solid rgba(0, 255, 0, 0.5);
+    border-bottom: 10px solid rgba(123, 243, 129, 1);
 }
 
 .deaths {
-    border-bottom: 10px solid rgba(255, 0, 0, 0.5);
+    border-bottom: 10px solid rgba(255, 0, 0, 0.7);
 }
 
 @media (max-width: 770px) {

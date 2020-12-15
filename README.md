@@ -16,3 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 A simple mobile-responsive application utilizing the COVID-19 API (https://covid19.mathdro.id/api) 
 to display live statiscics on COVID-19 globally and by country.  
 The world chart displays the number of cases in each total and a bar graph displays the the number of cases by country.
+
+[![Screen-Shot-2020-12-14-at-10-39-22-PM.png](https://i.postimg.cc/CKtLkVbG/Screen-Shot-2020-12-14-at-10-39-22-PM.png)](https://postimg.cc/GBFCnV7t)
